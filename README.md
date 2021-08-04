@@ -8,8 +8,9 @@
 
 - I am using private class method identifier of ES10. Since this is a new feature, minimum Chrome version should be 84 and this will not work in safari and IE.
 
-## Note
+## Steps to run
 
-- This can also be implemented using a javascript framework/ library like React, Angular but since it is mentioned to implement without any framework/ library so opted for Javascript versions. 
-
-- I have not added any unit tests. Could be added to test different input for 'puzzleObj' variable and test the behaviour. 
+- open index.html in Chrome browser
+- clicking on shuffle button should shuffle the puzzle blocks
+- you can shuffle as many times as you want
+- clicking on sort will arrange the puzzle blocks in ascending order
